@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NsMDY1NnBnejE2aHVxdWJlcTRrYzgxZW9rZm45d3RiN2M0OTc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iy5mszELFtY2LborO3/giphy.gif")
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NsMDY1NnBnejE2aHVxdWJlcTRrYzgxZW9rZm45d3RiN2M0OTc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iy5mszELFtY2LborO3/giphy.gif"
   alt="GIF de boas-vindas" width="200" />
   <h1>Olá! Eu sou a Camila da Mata 👋</h1>
 </div>
