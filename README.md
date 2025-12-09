@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlsaGk1ejQ5eG41enF0Z2p5NGU1ZzJ1eDdvZ21iYWgzMGwzdzc2ayZlcD12aWZfY29sbGVjdGlvbnMmdG9rZW49YTE4MmE4MjI2NDU3ZDFkYzNmZjI4MDdhMGI5ZTcwMTgwZDE1YTUwNGU5MDgwNTA2OTNiYmI2M2Q1NjE3ZjcyYSZjdD1z/hS4bVdY0eT37q/giphy.gif" alt="GIF de boas-vindas" width="200" />
+  <img src=(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlsaGk1ejQ5eG41enF0Z2p5NGU1ZzJ1eDdvZ21iYWgzMGwzdzc2ayZlcD12aWZfY29sbGVjdGlvbnMmdG9rZW49YTE4MmE4MjI2NDU3ZDFkYzNmZjI4MDdhMGI5ZTcwMTgwZDE1YTUwNGU5MDgwNTA2OTNiYmI2M2Q1NjE3ZjcyYSZjdD1z/hS4bVdY0eT37q/giphy.gif](https://www.abracem.com.br/assets/img/blog/2023/08/crescimento-profissional.jpg)" alt="GIF de boas-vindas" width="200" />
   <h1>Olá! Eu sou a Camila da Mata 👋</h1>
 </div>
 
