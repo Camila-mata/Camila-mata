@@ -5,8 +5,7 @@
 </div>
 
 <p align="center">
-  Estudante de <strong>Sistemas de Informação</strong>, Bacharel em <strong>Administração</strong> e <strong>Técnica em Segurança do Trabalho</strong>. Busco ativamente uma transição de carreira para a área de Tecnologia, focada em <strong>Análise de Dados</strong>, <strong>Business Intelligence (BI)</strong> e <strong>Gestão de Riscos</strong>. 
-  Minha experiência em gestão, organização e análise de indicadores me prepara para desenvolver soluções baseadas em dados.
+  Estudante de <strong>Sistemas de Informação</strong>, Bacharel em <strong>Administração</strong> e <strong>Técnica em Segurança do Trabalho</strong>, com foco em <strong>Análise de Dados</strong>, <strong>Power BI</strong>, <strong>Planejamento</strong> e <strong>Qualidade</strong>. Experiência em gestão de SST, análise de indicadores e apoio à tomada de decisão baseada em dados.
 </p>
 
 ---
