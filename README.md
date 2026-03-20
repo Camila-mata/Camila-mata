@@ -31,12 +31,12 @@
 
 | Ferramenta | Nível | Progresso |
 | :--- | :--- | :--- |
-| **SQL (MySQL / SQL Server)** | Iniciante-Intermediário | `████████░░` 40% |
-| **Power BI** | Iniciante-Intermediário | `███████░░░` 35% |
-| **Excel** | Intermediário | `████████░░` 40% |
-| **Git & GitHub** | Iniciante | `█████░░░░░` 25% |
-| **Gestão & Qualidade** | Intermediário-Avançado | `████████░░` 75% |
-| **Gestão de SST** | Intermediário-Avançado | `█████████░` 80% |
+| **SQL (MySQL / SQL Server)** | Iniciante-Intermediário | `████░░░░░░` 40% |
+| **Power BI** | Iniciante-Intermediário | `█████▌░░░░` 55% |
+| **Excel** | Intermediário | `████░░░░░░` 40% |
+| **Git & GitHub** | Iniciante | `██░░░░░░░░` 25% |
+| **Gestão & Qualidade** | Intermediário-Avançado | `███████░░░` 75% |
+| **Gestão de SST** | Intermediário-Avançado | `████████░░` 80% |
 
 ---
 
