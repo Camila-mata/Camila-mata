@@ -74,7 +74,7 @@
   <img height="160em" src="https://streak-stats.demolab.com?user=Camila-mata&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-mata&layout=compact&theme=tokyonight&langs_count=6"/>
+  <img src="https://raw.githubusercontent.com/Camila-mata/Camila-mata/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 </div>
 ---
 
