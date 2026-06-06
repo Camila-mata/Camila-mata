@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  Estudante de <strong>Sistemas de Informação</strong>, Bacharel em <strong>Administração</strong> e <strong>Técnica em Segurança do Trabalho</strong>, com foco em <strong>Análise de Dados</strong>, <strong>Power BI</strong> e <strong>Planejamento</strong>. Experiência em gestão de SST, análise de indicadores e apoio à tomada de decisão baseada em dados.
+ Bacharel em <strong>Administração</strong> pela PUC Minas e  estudante de <strong>Ciência de Dados</strong> na UNINTER, com foco em <strong>Análise de Dados</strong>, <strong>Power BI</strong> e <strong>Planejamento</strong>. Experiência em gestão de SST, análise de indicadores e apoio à tomada de decisão baseada em dados.
 </p>
 
 ---
@@ -27,12 +27,12 @@
 
 ## 📊 Nível de Conhecimento
 
-> Autoavaliação honesta — 2º período de Sistemas de Informação
+> Autoavaliação honesta — 2º período de Ciência de Dados
 
 | Ferramenta | Nível | Progresso |
 | :--- | :--- | :--- |
 | **SQL (MySQL / SQL Server)** | Iniciante-Intermediário | `████░░░░░░` 40% |
-| **Power BI** | Iniciante-Intermediário | `█████▌░░░░` 55% |
+| **Power BI** | Intermediário | `█████▌░░░░` 55% |
 | **Excel** | Intermediário | `████░░░░░░` 40% |
 | **Git & GitHub** | Iniciante | `██░░░░░░░░` 25% |
 | **Gestão & Qualidade** | Intermediário-Avançado | `███████░░░` 75% |
@@ -53,9 +53,8 @@
 
 ## 🎓 Formação Acadêmica
 
-* 🎓 **Bacharelado em Sistemas de Informação** — Uninter *(Previsão: jul/2029)*
+* 🎓 **Tecnólogo em Cieência de Dados** — Uninter *(Previsão: dez/2027)*
 * 🎓 **Bacharelado em Administração** — PUC
-* 📜 **Técnica em Segurança do Trabalho**
 
 ---
 
@@ -80,7 +79,7 @@
 
 ## 🎯 Em Busca de
 
-* Oportunidade de **Estágio** ou **Posição Júnior** em Desenvolvimento, Análise de Dados ou BI.
+* Oportunidade de **Estágio** ou **Posição Júnior** em Análise de Dados ou BI.
 * Projetos que envolvam SQL, Power BI e futuramente Python.
 
 ---
