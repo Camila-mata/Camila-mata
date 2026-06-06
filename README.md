@@ -32,7 +32,7 @@
 | :--- | :--- | :--- |
 | **Power BI** | Intermediário | `██████░░░░` 60% |
 | **SQL (MySQL / SQL Server)** | Iniciante-Intermediário | `████░░░░░░` 40% |
-| **Excel** | Intermediário | `████░░░░░░` 40% |
+| **Excel** | Intermediário | `██████░░░░` 60% |
 | **Git & GitHub** | Iniciante | `██░░░░░░░░` 25% |
 | **Gestão & Processos** | Avançado | `████████░░` 80% |
 
