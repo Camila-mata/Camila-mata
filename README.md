@@ -70,7 +70,15 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=Camila-mata&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camila-mata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-mata&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula"/>
 </div>
 
 ---
