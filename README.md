@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NsMDY1NnBnejE2aHVxdWJlcTRrYzgxZW9rZm45d3RiN2M0OTc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iy5mszELFtY2LborO3/giphy.gif"
-  alt="GIF de boas-vindas" width="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NsMDY1NnBnejE2aHVxdWJlcTRrYzgxZW9rZm45d3RiN2M0OTc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iy5mszELFtY2LborO3/giphy.gif" alt="GIF de boas-vindas" width="200" />
   <h1>Olá! Eu sou a Camila da Mata 👋</h1>
 </div>
 
 <p align="center">
- Bacharel em <strong>Administração</strong> pela PUC Minas e  estudante de <strong>Ciência de Dados</strong> na UNINTER, com foco em <strong>Análise de Dados</strong>, <strong>Power BI</strong> e <strong>Planejamento</strong>. Experiência em gestão de SST, análise de indicadores e apoio à tomada de decisão baseada em dados.
+  Bacharel em <strong>Administração</strong> pela PUC Minas e estudante de <strong>Ciência de Dados</strong> na UNINTER, com foco em <strong>Análise de Dados</strong>, <strong>Power BI</strong> e <strong>Planejamento Estratégico</strong>. Experiência na análise de indicadores, inteligência de processos e apoio à tomada de decisão baseada em dados.
 </p>
 
 ---
@@ -14,8 +13,8 @@
 
 <div align="center">
 
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -27,43 +26,41 @@
 
 ## 📊 Nível de Conhecimento
 
-> Autoavaliação honesta — 2º período de Ciência de Dados
+> Autoavaliação — Graduação em Ciência de Dados
 
 | Ferramenta | Nível | Progresso |
 | :--- | :--- | :--- |
+| **Power BI** | Intermediário | `██████░░░░` 60% |
 | **SQL (MySQL / SQL Server)** | Iniciante-Intermediário | `████░░░░░░` 40% |
-| **Power BI** | Intermediário | `█████▌░░░░` 55% |
 | **Excel** | Intermediário | `████░░░░░░` 40% |
 | **Git & GitHub** | Iniciante | `██░░░░░░░░` 25% |
-| **Gestão & Qualidade** | Intermediário-Avançado | `███████░░░` 75% |
-| **Gestão de SST** | Intermediário-Avançado | `████████░░` 80% |
+| **Gestão & Processos** | Avançado | `████████░░` 80% |
 
 ---
 
-## 🚀 Habilidades Técnicas e de Gestão
+## 🚀 Habilidades Técnicas e de Negócio
 
 | Categoria | Habilidades | Foco |
 | :--- | :--- | :--- |
-| **Business Intelligence & Dados** | Power BI, Excel, Dashboards, Análise de Indicadores | Transformar dados brutos em informações estratégicas para tomada de decisão. |
-| **Banco de Dados** | MySQL, SQL Server, Modelagem Relacional, Consultas SQL | Criação e manipulação de bancos de dados relacionais. |
-| **Gestão & Qualidade** | SWOT, PDCA, 5W2H, Análise de Causa Raiz, Melhoria Contínua | Padronização e otimização de processos. |
-| **Segurança & Monitoramento** | Gestão de Riscos (SST), Relatórios de Segurança, Monitoramento de Performance | Implementação de controles preventivos e análise de performance. |
+| **Business Intelligence & Dados** | Power BI, Excel, Dashboards, Análise de Indicadores | Transformar dados brutos em insights visuais e estratégicos para o negócio. |
+| **Banco de Dados** | MySQL, SQL Server, Modelagem Relacional, Consultas SQL | Criação, manipulação e otimização de consultas em bancos de dados relacionais. |
+| **Gestão & Melhoria Contínua** | SWOT, PDCA, 5W2H, Análise de Causa Raiz | Padronização, otimização de processos e eficiência operacional. |
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-* 🎓 **Tecnólogo em Cieência de Dados** — Uninter *(Previsão: dez/2027)*
-* 🎓 **Bacharelado em Administração** — PUC
+* 🎓 **Bacharelado em Administração** — PUC Minas
+* 🎓 **Tecnologia em Ciência de Dados** — Uninter *(Previsão: 12/2027)*
 
 ---
 
-## 📁 Repositórios Recentes
+## 📁 Repositórios em Destaque
 
 | Projeto | Descrição | Tecnologia |
 | :--- | :--- | :--- |
 | [🏢 Banco de Dados — Assistência Técnica](https://github.com/Camila-mata/banco-de-dados-empresa_assistencia_tecnica) | Sistema de ordens de serviço com modelagem relacional completa | MySQL |
-| [🔍 Consultas SQL Server — Contoso](https://github.com/Camila-mata/sql-server-contoso-hashtag) | Queries com JOINs, filtros e subconsultas | SQL Server |
+| [🔍 Consultas SQL Server — Contoso](https://github.com/Camila-mata/sql-server-contoso-hashtag) | Queries analíticas com JOINs, filtros e subconsultas | SQL Server |
 
 ---
 
@@ -71,22 +68,21 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camila-mata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-mata&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Camila-mata&theme=dracula"/>
 </div>
 
 ---
 
 ## 🎯 Em Busca de
 
-* Oportunidade de **Estágio** ou **Posição Júnior** em Análise de Dados ou BI.
-* Projetos que envolvam SQL, Power BI e futuramente Python.
+* Oportunidades de **Estágio** ou posições **Júnior** em Análise de Dados, Business Intelligence (BI) ou Planejamento.
+* Projetos e desafios práticos que envolvam astack de dados (SQL, Power BI, Excel e Python).
 
 ---
 
