@@ -72,9 +72,7 @@
 <div align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=Camila-mata&theme=tokyonight"/>
 </div>
-<div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Camila-mata&theme=tokyonight"/>
-</div>
+
 ---
 
 ## 🎯 Em Busca de
